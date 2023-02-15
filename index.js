@@ -32,7 +32,7 @@ let displayentries=()=>{
             <th scope="col">Email</th>
             <th scope="col">Password</th>
             <th scope="col">Dob</th>
-            <th scope="col">Accepted?</th>
+            <th scope="col">Accepted terms?</th>
         </tr>
         ${table} 
     </table>`;
